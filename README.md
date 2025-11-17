@@ -170,7 +170,7 @@ regiones_a_procesar = ["METROPOLITANA DE SANTIAGO", "DE VALPARAISO"]
  - Mantén la compatibilidad con versiones anteriores
    
 ## 📄 Licencia
-Este proyecto está bajo la Licencia MIT - ver el archivo LICENSE para detalles.
+Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](https://github.com/adroguetth/Elecciones_Chile_PrimeraVuelta_2025/blob/Web-Scraper/LICENSE) para detalles.
 
 ** Nota importante**: El uso de datos extraídos debe cumplir con los términos de uso del SERVEL y las leyes chilenas de protección de datos.
 

@@ -175,7 +175,6 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](https://gith
 ** Nota importante**: El uso de datos extraídos debe cumplir con los términos de uso del SERVEL y las leyes chilenas de protección de datos.
 
 ## 👨‍💻 Autor
-**Alfonso Droguett** [GitHub](https://github.com/adroguetth/)
 **LinkedIn:** [Alfonso Droguett](https://www.linkedin.com/in/adroguetth/)  
 **Portafolio Web:** [adroguett-portfolio.cl](https://www.adroguett-portfolio.cl/)  
 **Email:** [adroguetth@gmail.com](mailto:adroguetth@gmail.com)

@@ -1,7 +1,7 @@
 """
 Web Scraper para Resultados Electorales Chilenos
 Autor: Alfonso Droguett
-Fecha: Noviembre 2024
+Fecha: Noviembre 2025
 Descripción: Extracción automática de resultados electorales por comuna desde SERVEL
 Repositorio: https://github.com/adroguetth/Elecciones_Chile_PrimeraVuelta_2025
 """

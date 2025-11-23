@@ -76,7 +76,7 @@ Análisis integral de los resultados de la Primera Vuelta Presidencial chilena 2
 
 | Recurso | Descripción | Enlace |
 |---------|-------------|--------|
-| **Documentación Técnica** | Análisis completo | [Ver PDF](https://drive.google.com/drive/u/0/folders/1TYTF4cgiLQwVemjOWHehHvXgSeUBM1wA) |
+| **Documentación Técnica** | Análisis completo | [Ver PDF](https://drive.google.com/file/d/1CSknkwxA8Pig7hlm-wBCMDfJIa2oft6l/view?usp=sharing) |
 | **Código Principal - Compatible con SQLite** | Script SQL con consultas CTEs | [Ver código](https://github.com/adroguetth/SQL_Database_Analytics/blob/Analisis_de_Ventas_de_Libreria/analisis_libreria.sql) |
 | **README.md** | Este archivo | - |
 

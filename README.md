@@ -76,11 +76,7 @@ Análisis integral de los resultados de la Primera Vuelta Presidencial chilena 2
 
 | Recurso | Descripción | Enlace |
 |---------|-------------|--------|
-| **Portafolio Web** | Proyecto en línea con demostración | [Ver en web](https://www.adroguett-portfolio.cl/SQL/SQL-libreria) |
-| **Diagrama ER** | Modelo de datos del proyecto | [Ver imagen](https://github.com/adroguetth/SQL_Database_Analytics/blob/Analisis_de_Ventas_de_Libreria/Diagrama%20ER.png) |
-| **Documentación Técnica** | Análisis completo | [Descargar PDF](https://github.com/adroguetth/SQL_Database_Analytics/blob/Analisis_de_Ventas_de_Libreria/Documentacion.pdf) |
-| **Esquema CTE: CONSULTA 1.png** | Esquema consulta N°1: Ventas por Autor  | [Ver imagen](https://github.com/adroguetth/SQL_Database_Analytics/blob/Analisis_de_Ventas_de_Libreria/Esquema%20CTE:%20CONSULTA%201.png) |
-| **Esquema CTE: CONSULTA 2.png** | Esquema consulta N°2: Clientes Recurrentes  | [Ver imagen](https://github.com/adroguetth/SQL_Database_Analytics/blob/Analisis_de_Ventas_de_Libreria/Esquema%20CTE:%20CONSULTA%202.png) |
+| **Documentación Técnica** | Análisis completo | [Ver PDF](https://drive.google.com/drive/u/0/folders/1TYTF4cgiLQwVemjOWHehHvXgSeUBM1wA) |
 | **Código Principal - Compatible con SQLite** | Script SQL con consultas CTEs | [Ver código](https://github.com/adroguetth/SQL_Database_Analytics/blob/Analisis_de_Ventas_de_Libreria/analisis_libreria.sql) |
 | **README.md** | Este archivo | - |
 

@@ -74,20 +74,32 @@ Análisis integral de los resultados de la Primera Vuelta Presidencial chilena 2
 
 ## 📁 Estructura del Proyecto (pendiente)
 
+## Consultas y Documentación
 | Recurso | Descripción | Enlace |
 |---------|-------------|--------|
 | **Documentación Técnica** | Análisis completo | [Ver PDF](https://drive.google.com/file/d/1CSknkwxA8Pig7hlm-wBCMDfJIa2oft6l/view?usp=sharing) |
 | **Código Principal - Compatible con SQL Server** | Script SQL| [Ver código](https://github.com/adroguetth/Elecciones_Chile_PrimeraVuelta_2025/blob/Database-Analytics/elecciones_primera_vuelta.sql) |
 | **README.md** | Este archivo | - |
 
-
-### Diagramas de consultas
+## Bases de datos
 | Recurso | Descripción | Enlace |
 |---------|-------------|--------|
-| Consulta 1: **Estadísticas Generales de Participación Electoral** | Análisis completo | [Ver diagrama](https://github.com/adroguetth/Elecciones_Chile_PrimeraVuelta_2025/blob/Database-Analytics/Diagramas%20de%20consultas/Consulta%201%3A%20Estad%C3%ADsticas%20Generales%20de%20Participaci%C3%B3n%20Electoral.png) |
-| Consulta 2: **Resultados Nacionales por Candidato** | Script SQL| [Ver diagrama](https://github.com/adroguetth/Elecciones_Chile_PrimeraVuelta_2025/blob/Database-Analytics/Diagramas%20de%20consultas/Consulta%202%3A%20Resultados%20Nacionales%20por%20Candidato.png) |
-| Consulta 3: **Identificación de Candidatos para Segunda Vuelta** | Script SQL| [Ver diagrama](https://github.com/adroguetth/Elecciones_Chile_PrimeraVuelta_2025/blob/Database-Analytics/Diagramas%20de%20consultas/Consulta%203%3A%20Identificaci%C3%B3n%20de%20Candidatos%20para%20Segunda%20Vuelta.png) |
-| Consulta 3: **Identificación de Candidatos para Segunda Vuelta** | Script SQL| [Ver diagrama](https://github.com/adroguetth/Elecciones_Chile_PrimeraVuelta_2025/blob/Database-Analytics/Diagramas%20de%20consultas/Consulta%203%3A%20Identificaci%C3%B3n%20de%20Candidatos%20para%20Segunda%20Vuelta.png) |
+| **Documentación Técnica** | Análisis completo | [Ver PDF](https://drive.google.com/file/d/1CSknkwxA8Pig7hlm-wBCMDfJIa2oft6l/view?usp=sharing) |
+| **Código Principal - Compatible con SQL Server** | Script SQL| [Ver código](https://github.com/adroguetth/Elecciones_Chile_PrimeraVuelta_2025/blob/Database-Analytics/elecciones_primera_vuelta.sql) |
+| **README.md** | Este archivo | - |
+
+### Diagramas de Consultas
+| Recurso | Descripción | Enlace (Github) | Enlace (externo) |
+|---------|-------------|--------|--------|
+| Consulta 1: **Estadísticas Generales de Participación Electoral** | Análisis completo | [Ver diagrama](https://github.com/adroguetth/Elecciones_Chile_PrimeraVuelta_2025/blob/Database-Analytics/Diagramas%20de%20consultas/Consulta%201%3A%20Estad%C3%ADsticas%20Generales%20de%20Participaci%C3%B3n%20Electoral.png) | [Ver diagrama](https://github.com/adroguetth/Elecciones_Chile_PrimeraVuelta_2025/blob/Database-Analytics/Diagramas%20de%20consultas/Consulta%201%3A%20Estad%C3%ADsticas%20Generales%20de%20Participaci%C3%B3n%20Electoral.png) |
+| Consulta 2: **Resultados Nacionales por Candidato** | Script SQL| [Ver diagrama](https://github.com/adroguetth/Elecciones_Chile_PrimeraVuelta_2025/blob/Database-Analytics/Diagramas%20de%20consultas/Consulta%202%3A%20Resultados%20Nacionales%20por%20Candidato.png) |[Ver diagrama](https://github.com/adroguetth/Elecciones_Chile_PrimeraVuelta_2025/blob/Database-Analytics/Diagramas%20de%20consultas/Consulta%201%3A%20Estad%C3%ADsticas%20Generales%20de%20Participaci%C3%B3n%20Electoral.png) | [Ver diagrama](https://github.com/adroguetth/Elecciones_Chile_PrimeraVuelta_2025/blob/Database-Analytics/Diagramas%20de%20consultas/Consulta%201%3A%20Estad%C3%ADsticas%20Generales%20de%20Participaci%C3%B3n%20Electoral.png) |
+| Consulta 3: **Identificación de Candidatos para Segunda Vuelta** | Script SQL| [Ver diagrama](https://github.com/adroguetth/Elecciones_Chile_PrimeraVuelta_2025/blob/Database-Analytics/Diagramas%20de%20consultas/Consulta%203%3A%20Identificaci%C3%B3n%20de%20Candidatos%20para%20Segunda%20Vuelta.png) | [Ver diagrama](https://github.com/adroguetth/Elecciones_Chile_PrimeraVuelta_2025/blob/Database-Analytics/Diagramas%20de%20consultas/Consulta%201%3A%20Estad%C3%ADsticas%20Generales%20de%20Participaci%C3%B3n%20Electoral.png) |
+| Consulta 5: **Mapeo Territorial de Victorias por Candidato** | Script SQL| [Ver diagrama](https://github.com/adroguetth/Elecciones_Chile_PrimeraVuelta_2025/blob/Database-Analytics/Diagramas%20de%20consultas/Consulta%203%3A%20Identificaci%C3%B3n%20de%20Candidatos%20para%20Segunda%20Vuelta.png) | [Ver diagrama](https://github.com/adroguetth/Elecciones_Chile_PrimeraVuelta_2025/blob/Database-Analytics/Diagramas%20de%20consultas/Consulta%201%3A%20Estad%C3%ADsticas%20Generales%20de%20Participaci%C3%B3n%20Electoral.png) |
+| Consulta 6: **Resultados por Región** | Script SQL| [Ver diagrama](https://github.com/adroguetth/Elecciones_Chile_PrimeraVuelta_2025/blob/Database-Analytics/Diagramas%20de%20consultas/Consulta%203%3A%20Identificaci%C3%B3n%20de%20Candidatos%20para%20Segunda%20Vuelta.png) | [Ver diagrama](https://github.com/adroguetth/Elecciones_Chile_PrimeraVuelta_2025/blob/Database-Analytics/Diagramas%20de%20consultas/Consulta%201%3A%20Estad%C3%ADsticas%20Generales%20de%20Participaci%C3%B3n%20Electoral.png) |
+| Consulta 7: **Resultados por Capital Regional - Análisis de Centros Urbanos** | Script SQL| [Ver diagrama](https://github.com/adroguetth/Elecciones_Chile_PrimeraVuelta_2025/blob/Database-Analytics/Diagramas%20de%20consultas/Consulta%203%3A%20Identificaci%C3%B3n%20de%20Candidatos%20para%20Segunda%20Vuelta.png) | [Ver diagrama](https://github.com/adroguetth/Elecciones_Chile_PrimeraVuelta_2025/blob/Database-Analytics/Diagramas%20de%20consultas/Consulta%201%3A%20Estad%C3%ADsticas%20Generales%20de%20Participaci%C3%B3n%20Electoral.png) |
+| Consulta 8: **Análisis de Competitividad - Comunas Cercanas para Jeannette Jara** | Script SQL| [Ver diagrama](https://github.com/adroguetth/Elecciones_Chile_PrimeraVuelta_2025/blob/Database-Analytics/Diagramas%20de%20consultas/Consulta%203%3A%20Identificaci%C3%B3n%20de%20Candidatos%20para%20Segunda%20Vuelta.png) | [Ver diagrama](https://github.com/adroguetth/Elecciones_Chile_PrimeraVuelta_2025/blob/Database-Analytics/Diagramas%20de%20consultas/Consulta%201%3A%20Estad%C3%ADsticas%20Generales%20de%20Participaci%C3%B3n%20Electoral.png) |
+| Consulta 9: **Análisis de Competitividad - Comunas Cercanas para José Antonio Kast** | Script SQL| [Ver diagrama](https://github.com/adroguetth/Elecciones_Chile_PrimeraVuelta_2025/blob/Database-Analytics/Diagramas%20de%20consultas/Consulta%203%3A%20Identificaci%C3%B3n%20de%20Candidatos%20para%20Segunda%20Vuelta.png) | [Ver diagrama](https://github.com/adroguetth/Elecciones_Chile_PrimeraVuelta_2025/blob/Database-Analytics/Diagramas%20de%20consultas/Consulta%201%3A%20Estad%C3%ADsticas%20Generales%20de%20Participaci%C3%B3n%20Electoral.png) |
+| Consulta 10: **Análisis: Fenómeno del "Voto Antisistema" - Parisi vs Duopolio Jara-Kast** | Script SQL| [Ver diagrama](https://github.com/adroguetth/Elecciones_Chile_PrimeraVuelta_2025/blob/Database-Analytics/Diagramas%20de%20consultas/Consulta%203%3A%20Identificaci%C3%B3n%20de%20Candidatos%20para%20Segunda%20Vuelta.png) | [Ver diagrama](https://github.com/adroguetth/Elecciones_Chile_PrimeraVuelta_2025/blob/Database-Analytics/Diagramas%20de%20consultas/Consulta%201%3A%20Estad%C3%ADsticas%20Generales%20de%20Participaci%C3%B3n%20Electoral.png) |
 
 
 ## 📈 Hallazgos Principales

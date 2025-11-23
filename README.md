@@ -1,1 +1,121 @@
-# Elecciones_Chile_PrimeraVuelta_2025
+# Análisis de Elecciones Primera Vuelta Presidencial Chile 2025
+## 📊 Descripción del Proyecto
+Análisis integral de los resultados de la Primera Vuelta Presidencial chilena 2025, desarrollado con SQL Server (T-SQL). Este proyecto examina 346 comunas a nivel nacional, identificando patrones geográficos, competitividad electoral y comportamiento del votante mediante consultas avanzadas y análisis espacial.
+
+## 🎯 Objetivos del Análisis
+- **Distribución Nacional**: Analizar la distribución de votos por candidato a nivel nacional
+- **Bastiones Electorales**: Identificar comunas con mayor apoyo por candidato
+- **Competitividad**: Detectar comunas con diferencias estrechas entre candidatos
+- **Patrones Regionales**: Examinar tendencias por región y capitales regionales
+- **Fenómeno Antisistema**: Investigar el voto de protesta contra el duopolio político
+
+## 🗃️ Modelo de Datos
+- **Fuente:** SERVEL (Servicio Electoral de Chile)
+- **Extracción:** Python con Selenium
+- **Cobertura:** 346 comunas a nivel nacional
+
+### Estructura Principal:
+- Tabla `resultados_elecciones` con porcentajes y votos por candidato
+- 8 candidatos presidenciales analizados
+- Métricas de participación electoral (votos emitidos, blancos, nulos)
+
+## 🏗️ Arquitectura de Consultas
+### Estadísticas Generales de Participación Electoral
+- Cálculo de métricas fundamentales de participación ciudadana
+- Análisis de votos válidos, blancos y nulos
+- Establecimiento del universo electoral base
+
+### Resultados Nacionales por Candidato
+- Agregación nacional y clasificación por niveles de apoyo
+- Transformación estructural de datos
+- Identificación de candidatos competitivos
+
+### Identificación para Segunda Vuelta
+- Determinación automática según ley chilena
+- Validación de umbrales constitucionales
+- Clasificación de posiciones
+
+### Top 10 Comunas por Candidato
+- Identificación de bastiones electorales
+- Determinación de victorias por comuna
+- Análisis de patrones geográficos
+  
+### Mapeo Territorial de Victorias
+- Cuantificación de dominio territorial
+- Ranking de presencia geográfica
+- Análisis exhaustivo por comuna
+
+### Resultados por Región
+- Agregación regional y determinación de ganadores
+- Patrones geográficos de apoyo
+- Análisis comparativo interregional
+
+### Capitales Regionales - Análisis Urbano
+- Comportamiento electoral en centros urbanos
+- Tendencias en capitales regionales
+- Segmentación por perfil urbano
+
+### Análisis de Competitividad (Primeras mayorias)
+- Cálculo de brechas electorales para Jara y Kast
+- Identificación de oportunidades estratégicas
+- Métricas de viabilidad electoral
+
+### Fenómeno "Voto Antisistema"
+- Análisis del rechazo al duopolio político
+- Identificación de enclaves antisistema
+- Cuantificación del voto de protesta
+
+## 🛠️ Stack Tecnológico
+- **Base de Datos**: SQL Server (T-SQL)
+- **Extracción de Datos:** Python con Selenium
+- **Enfoque Analítico:** Common Table Expressions (CTEs)
+- **Métricas:** Agregaciones espaciales y porcentuales
+
+
+## 📁 Estructura del Proyecto (pendiente)
+
+| Recurso | Descripción | Enlace |
+|---------|-------------|--------|
+| **Portafolio Web** | Proyecto en línea con demostración | [Ver en web](https://www.adroguett-portfolio.cl/SQL/SQL-libreria) |
+| **Diagrama ER** | Modelo de datos del proyecto | [Ver imagen](https://github.com/adroguetth/SQL_Database_Analytics/blob/Analisis_de_Ventas_de_Libreria/Diagrama%20ER.png) |
+| **Documentación Técnica** | Análisis completo | [Descargar PDF](https://github.com/adroguetth/SQL_Database_Analytics/blob/Analisis_de_Ventas_de_Libreria/Documentacion.pdf) |
+| **Esquema CTE: CONSULTA 1.png** | Esquema consulta N°1: Ventas por Autor  | [Ver imagen](https://github.com/adroguetth/SQL_Database_Analytics/blob/Analisis_de_Ventas_de_Libreria/Esquema%20CTE:%20CONSULTA%201.png) |
+| **Esquema CTE: CONSULTA 2.png** | Esquema consulta N°2: Clientes Recurrentes  | [Ver imagen](https://github.com/adroguetth/SQL_Database_Analytics/blob/Analisis_de_Ventas_de_Libreria/Esquema%20CTE:%20CONSULTA%202.png) |
+| **Código Principal - Compatible con SQLite** | Script SQL con consultas CTEs | [Ver código](https://github.com/adroguetth/SQL_Database_Analytics/blob/Analisis_de_Ventas_de_Libreria/analisis_libreria.sql) |
+| **README.md** | Este archivo | - |
+
+## 📈 Hallazgos Principales
+### Patrones Geográficos
+- Segmentación Norte-Sur: Parisi domina norte minero, Kast domina sur agrícola
+- Urbanización: Jara fuerte en áreas metropolitanas
+- Ruralidad: Kast con mejor desempeño en comunas rurales
+
+### Competitividad Electoral
+- Elección muy reñida entre primeros dos lugares
+- 95 comunas decididas por menos de 1,000 votos para Jara
+- 68 comunas altamente competitivas para Kast
+
+### Tendencias de Voto
+- Voto "antisistema" significativo liderado por Parisi
+- Distribución regional marcada y predecible
+- Alta fragmentación en primera vuelta
+
+## 🔍 Métricas Clave
+- Participación: 13,388,455 votos emitidos
+- Votos Válidos: 96.25% del total
+- Candidatos a 2da Vuelta: Jeannette Jara (25.74%) y José Antonio Kast (23.06%)
+- Dominio Territorial: Kast gana en 169 comunas vs 105 de Jara
+
+## 🚀 Consideraciones Técnicas
+- Estructura de datos normalizada
+- Consultas documentadas y modulares
+- Capacidad de escalar para futuras elecciones
+
+### 📋 Metadatos 
+- Autor: Alfonso Droguett
+- Fecha: Noviembre 2025
+- Versión: 1.0
+
+###  🔗 Enlaces Relacionados
+- 🌐 **Portafolio Completo**: [https://www.adroguett-portfolio.cl/]
+- 📧 **Contacto**: [adroguetth@gmail.com]

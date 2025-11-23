@@ -80,6 +80,16 @@ Análisis integral de los resultados de la Primera Vuelta Presidencial chilena 2
 | **Código Principal - Compatible con SQL Server** | Script SQL| [Ver código](https://github.com/adroguetth/Elecciones_Chile_PrimeraVuelta_2025/blob/Database-Analytics/elecciones_primera_vuelta.sql) |
 | **README.md** | Este archivo | - |
 
+
+### Diagramas de consultas
+| Recurso | Descripción | Enlace |
+|---------|-------------|--------|
+| Consulta 1: **Estadísticas Generales de Participación Electoral** | Análisis completo | [Ver diagrama](https://github.com/adroguetth/Elecciones_Chile_PrimeraVuelta_2025/blob/Database-Analytics/Diagramas%20de%20consultas/Consulta%201%3A%20Estad%C3%ADsticas%20Generales%20de%20Participaci%C3%B3n%20Electoral.png) |
+| Consulta 2: **Resultados Nacionales por Candidato** | Script SQL| [Ver diagrama](https://github.com/adroguetth/Elecciones_Chile_PrimeraVuelta_2025/blob/Database-Analytics/Diagramas%20de%20consultas/Consulta%202%3A%20Resultados%20Nacionales%20por%20Candidato.png) |
+| Consulta 3: **Identificación de Candidatos para Segunda Vuelta** | Script SQL| [Ver diagrama](https://github.com/adroguetth/Elecciones_Chile_PrimeraVuelta_2025/blob/Database-Analytics/Diagramas%20de%20consultas/Consulta%203%3A%20Identificaci%C3%B3n%20de%20Candidatos%20para%20Segunda%20Vuelta.png) |
+| Consulta 3: **Identificación de Candidatos para Segunda Vuelta** | Script SQL| [Ver diagrama](https://github.com/adroguetth/Elecciones_Chile_PrimeraVuelta_2025/blob/Database-Analytics/Diagramas%20de%20consultas/Consulta%203%3A%20Identificaci%C3%B3n%20de%20Candidatos%20para%20Segunda%20Vuelta.png) |
+
+
 ## 📈 Hallazgos Principales
 ### Patrones Geográficos
 - Segmentación Norte-Sur: Parisi domina norte minero, Kast domina sur agrícola

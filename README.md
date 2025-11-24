@@ -1,4 +1,4 @@
-# Análisis de Elecciones Primera Vuelta Presidencial Chile 2025
+# Análisis de Elecciones - Primera Vuelta Presidencial Chile 2025
 ## 📊 Descripción del Proyecto
 Análisis integral de los resultados de la Primera Vuelta Presidencial chilena 2025, desarrollado con SQL Server (T-SQL). Este proyecto examina 346 comunas a nivel nacional, identificando patrones geográficos, competitividad electoral y comportamiento del votante mediante consultas avanzadas y análisis espacial.
 

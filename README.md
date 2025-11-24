@@ -72,7 +72,7 @@ Análisis integral de los resultados de la Primera Vuelta Presidencial chilena 2
 - **Métricas:** Agregaciones espaciales y porcentuales
 
 
-## 📁 Estructura del Proyecto (pendiente)
+## 📁 Estructura del Proyecto
 
 ## Consultas y Documentación
 | Recurso | Descripción | Enlace |

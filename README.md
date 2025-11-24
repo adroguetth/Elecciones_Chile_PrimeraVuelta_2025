@@ -77,7 +77,7 @@ Análisis integral de los resultados de la Primera Vuelta Presidencial chilena 2
 ## Consultas y Documentación
 | Recurso | Descripción | Enlace |
 |---------|-------------|--------|
-| **Documentación Técnica** | Análisis completo | [Ver PDF](https://drive.google.com/file/d/1CSknkwxA8Pig7hlm-wBCMDfJIa2oft6l/view?usp=sharing) |
+| **Documentación Técnica** | Análisis completo | [Ver PDF](https://drive.google.com/file/d/1mW9CAVGOBeyb44cl3W1zQmI9QsTG5_2r/view?usp=sharing) |
 | **Código Principal - Compatible con SQL Server** | Script SQL| [Ver código](https://github.com/adroguetth/Elecciones_Chile_PrimeraVuelta_2025/blob/Database-Analytics/elecciones_primera_vuelta.sql) |
 | **README.md** | Este archivo | - |
 

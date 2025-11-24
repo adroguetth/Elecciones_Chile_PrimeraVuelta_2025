@@ -84,9 +84,9 @@ Análisis integral de los resultados de la Primera Vuelta Presidencial chilena 2
 ## Bases de datos
 | Recurso | Descripción | Enlace |
 |---------|-------------|--------|
-| BBDD formato excel | Datos completos de resultados electorales 2025 con 346 comunas y 8 candidatos | [Descargar xlsx](link gifhub xlsx) |
-| BBDD formato csv | Dataset estructurado para análisis en Python, R y herramientas de data science | [Descargar csv](link) |
-| BBDD formato csv | Script completo para recrear la base de datos en SQL Server/MySQL/PostgreSQL | [Ver sql](link) |
+| BBDD formato excel | Datos completos de resultados electorales 2025 con 346 comunas y 8 candidatos | [Descargar xlsx]([link gifhub xlsx](https://github.com/adroguetth/Elecciones_Chile_PrimeraVuelta_2025/blob/Database-Analytics/matriz_elecciones_346_comunas_.xlsx)) [Link alternativo]([link gifhub xlsx](https://docs.google.com/spreadsheets/d/1XJR9s8Il2AYSrjNSpRUyOre9RSUEA8eb/edit?usp=drive_link&ouid=113991688143535507558&rtpof=true&sd=true)|
+| BBDD formato csv | Dataset estructurado para análisis en Python, R y herramientas de data science | [Descargar csv]([link](https://github.com/adroguetth/Elecciones_Chile_PrimeraVuelta_2025/blob/Database-Analytics/matriz_elecciones_346_comunas.csv)) |
+| BBDD formato csv | Script completo para recrear la base de datos en SQL Server/MySQL/PostgreSQL | [Ver sql](https://github.com/adroguetth/Elecciones_Chile_PrimeraVuelta_2025/blob/Database-Analytics/inserts_elecciones.sql) |
 
 ### Diagramas de Consultas
 | Recurso | Descripción | Enlace (externo) |

@@ -84,9 +84,9 @@ Análisis integral de los resultados de la Primera Vuelta Presidencial chilena 2
 ## Bases de datos
 | Recurso | Descripción | Enlace |
 |---------|-------------|--------|
-| **Documentación Técnica** | Análisis completo | [Ver PDF](https://drive.google.com/file/d/1CSknkwxA8Pig7hlm-wBCMDfJIa2oft6l/view?usp=sharing) |
-| **Código Principal - Compatible con SQL Server** | Script SQL| [Ver código](https://github.com/adroguetth/Elecciones_Chile_PrimeraVuelta_2025/blob/Database-Analytics/elecciones_primera_vuelta.sql) |
-| **README.md** | Este archivo | - |
+| BBDD formato excel | Datos completos de resultados electorales 2025 con 346 comunas y 8 candidatos | [Descargar xlsx](link gifhub xlsx) |
+| BBDD formato csv | Dataset estructurado para análisis en Python, R y herramientas de data science | [Descargar csv](link) |
+| BBDD formato csv | Script completo para recrear la base de datos en SQL Server/MySQL/PostgreSQL | [Ver sql](link) |
 
 ### Diagramas de Consultas
 | Recurso | Descripción | Enlace (externo) |

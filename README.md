@@ -43,16 +43,16 @@ Proyecto integral de análisis de datos electorales que desarrolla un pipeline c
 |---------|-------------|--------|
 | **Participación Nacional** | 	13.3M votos | 	Base del universo electoral |
 | **Ganador 1° Vuelta** | Jeannette Jara - 25.74%  | Mayoría relativa |
-| **2° Lugar** | José Antonio Kast - 23.06%| Pasa a segunda vuelta |
+| **Cobertura Geográfica** | José Antonio Kast - 23.06%| Pasa a segunda vuelta |
 | **Diferencia** | 2.68%  | Elección competitiva |
 
-### Patrones y Tendencias
+### Patrones y Tendencias OK
 | Métrica | Valor | Análisis |
 |---------|-------------|--------|
-| **Participación Nacional** | 	13.3M votos | 	Base del universo electoral |
-| **Ganador 1° Vuelta** | Jeannette Jara - 25.74%  | Mayoría relativa |
-| **2° Lugar** | José Antonio Kast - 23.06%| Pasa a segunda vuelta |
-| **Diferencia** | 2.68%  | Elección competitiva |
+| **Máximo Parisi** | 57.3% (Colchane) | Voto antisistema |
+| **Votos Nulos/Blancos** | 3.75% | Protesta electoral |
+| **2° Lugar** | 346 comunas | 100% territorio nacional |
+| **Capitales Regionales - Jara** | 10/16 | Dominio en centros urbanos |
 
 ## 🙏 Agradecimientos
 - SERVEL por los datos electorales oficiales

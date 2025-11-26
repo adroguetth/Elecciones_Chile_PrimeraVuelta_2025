@@ -54,6 +54,28 @@ Proyecto integral de análisis de datos electorales que desarrolla un pipeline c
 | **2° Lugar** | 346 comunas | 100% territorio nacional |
 | **Capitales Regionales - Jara** | 10/16 | Dominio en centros urbanos |
 
+## 🛠️ Stack Tecnológico
+### Capa de Extracción
+```python
+Tecnologías: Python 3.9+, Selenium, Pandas, Requests
+Propósito: Web scraping datos oficiales SERVEL
+Output: Datos crudos en CSV/JSON
+```
+### Capa de Almacenamiento
+```sql
+Tecnologías: SQL Server, T-SQL, CSV, Excel
+Propósito: Almacenamiento estructurado y consultas
+Característica: Modelo relacional optimizado
+```
+### Capa de Análisis
+```sql
+Tecnologías: CTEs anidadas, Agregaciones, Análisis espacial
+Consultas: 10 especializadas en análisis electoral
+Performance: Optimizada para 346 comunas
+```
+
+
+
 ## 🙏 Agradecimientos
 - SERVEL por los datos electorales oficiales
 - Comunidad de datos abiertos en Chile

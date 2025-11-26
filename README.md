@@ -107,7 +107,7 @@ Las contribuciones son bienvenidas. Para cambios importantes:
 - Abre un Pull Request
 
 ## 📄 Licencia
-Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](https://github.com/adroguetth/Elecciones_Chile_PrimeraVuelta_2025/blob/Web-Scraper/LICENSE) para detalles.
+Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](https://github.com/adroguetth/Elecciones_Chile_PrimeraVuelta_2025/blob/main/LICENSE.txt) para detalles.
 
 
 ## 🙏 Agradecimientos

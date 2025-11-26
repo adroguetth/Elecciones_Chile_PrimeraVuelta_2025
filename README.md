@@ -73,7 +73,41 @@ Tecnologías: CTEs anidadas, Agregaciones, Análisis espacial
 Consultas: 10 especializadas en análisis electoral
 Performance: Optimizada para 346 comunas
 ```
+### Herramientas de Desarrollo
+```text
+Control Versiones: Git & GitHub
+Documentación: Markdown, PDF
+Entorno: VS Code, SSMS
+```
+## 🚀 Características Técnicas Destacadas
+### Pipeline Completo ETL
+- Extracción: Script propio Python + Selenium
+- Transformación: Limpieza y estructuración de datos
+- Carga: Base de datos SQL Server optimizada
+- Análisis: 10 consultas SQL especializadas
 
+### Arquitectura Escalable
+- Modularidad en sub-repositorios
+- Código reusable para futuras elecciones
+- Documentación técnica completa
+- Fácil replicación y mantenimiento
+
+### Análisis de Valor
+- Insights accionables para estrategias políticas
+- Identificación de patrones geopolíticos
+- Métricas de competitividad territorial
+- Detección de oportunidades de crecimiento
+
+## 🤝 Contribución
+Las contribuciones son bienvenidas. Para cambios importantes:
+- Fork el proyecto
+- Crea una rama para tu feature (git checkout -b feature/AmazingFeature)
+- Commit tus cambios (git commit -m 'Add some AmazingFeature')
+- Push a la rama (git push origin feature/AmazingFeature)
+- Abre un Pull Request
+
+## 📄 Licencia
+Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](https://github.com/adroguetth/Elecciones_Chile_PrimeraVuelta_2025/blob/Web-Scraper/LICENSE) para detalles.
 
 
 ## 🙏 Agradecimientos

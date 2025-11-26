@@ -17,14 +17,14 @@ Proyecto integral de análisis de datos electorales que desarrolla un pipeline c
 ###  Web-Scraper
 Extracción automatizada de datos con Selenium  - [Ver Script](https://github.com/adroguetth/Elecciones_Chile_PrimeraVuelta_2025/blob/Web-Scraper/Web%20Scraper.py) 
 
-### Bases de datos (ok)
+### Bases de datos
 | Recurso | Descripción | Enlace |
 |---------|-------------|--------|
-| BBDD formato excel | Datos completos de resultados electorales 2025 con 346 comunas y 8 candidatos | [Descargar xlsx](https://docs.google.com/spreadsheets/d/1XJR9s8Il2AYSrjNSpRUyOre9RSUEA8eb/edit?usp=drive_link&ouid=113991688143535507558&rtpof=true&sd=true) 
-| BBDD formato csv | Dataset estructurado para análisis en Python, R y herramientas de data science | [Descargar csv](https://github.com/adroguetth/Elecciones_Chile_PrimeraVuelta_2025/blob/Database-Analytics/matriz_elecciones_346_comunas.csv) |
-| BBDD formato sql | Script completo para recrear la base de datos en SQL Server/MySQL/PostgreSQL | [Ver sql](https://github.com/adroguetth/Elecciones_Chile_PrimeraVuelta_2025/blob/Database-Analytics/inserts_elecciones.sql) |
+| **BBDD formato excel** | Datos completos de resultados electorales 2025 con 346 comunas y 8 candidatos | [Descargar xlsx](https://docs.google.com/spreadsheets/d/1XJR9s8Il2AYSrjNSpRUyOre9RSUEA8eb/edit?usp=drive_link&ouid=113991688143535507558&rtpof=true&sd=true) 
+| **BBDD formato csv** | Dataset estructurado para análisis en Python, R y herramientas de data science | [Descargar csv](https://github.com/adroguetth/Elecciones_Chile_PrimeraVuelta_2025/blob/Database-Analytics/matriz_elecciones_346_comunas.csv) |
+| **BBDD formato sql** | Script completo para recrear la base de datos en SQL Server/MySQL/PostgreSQL | [Ver sql](https://github.com/adroguetth/Elecciones_Chile_PrimeraVuelta_2025/blob/Database-Analytics/inserts_elecciones.sql) |
 
-### Consultas (ok)
+### Consultas
 | Recurso | Descripción | Enlace |
 |---------|-------------|--------|
 | **10 Consultas SQL** | Análisis especializados con CTEs | [Ver consultas](https://github.com/adroguetth/Elecciones_Chile_PrimeraVuelta_2025/blob/Database-Analytics/elecciones_primera_vuelta.sql) |
@@ -41,20 +41,20 @@ Extracción automatizada de datos con Selenium  - [Ver Script](https://github.co
 | **2° Lugar** | José Antonio Kast - 23.06%| Pasa a segunda vuelta |
 | **Diferencia** | 2.68%  | Elección competitiva |
 
-### Resultados Electorales 
+### Análisis Territorial
 | Métrica | Valor | Análisis |
 |---------|-------------|--------|
-| **Participación Nacional** | 	13.3M votos | 	Base del universo electoral |
-| **Ganador 1° Vuelta** | Jeannette Jara - 25.74%  | Mayoría relativa |
-| **Cobertura Geográfica** | José Antonio Kast - 23.06%| Pasa a segunda vuelta |
-| **Diferencia** | 2.68%  | Elección competitiva |
+| **Comunas Ganadas - Kast** | 	169 (48.8%) | 	Dominio territorial |
+| **Comunas Ganadas - Jara** | 105 (30.3%)  | Fuerza en centros urbanos |
+| **Comunas Competitivas** | 95 comunas | Jara perdió por <1,000 votos |
+| **Votos Faltantes Jara** | 43,778 | Oportunidad estratégica |
 
-### Patrones y Tendencias OK
+### Patrones y Tendencias
 | Métrica | Valor | Análisis |
 |---------|-------------|--------|
 | **Máximo Parisi** | 57.3% (Colchane) | Voto antisistema |
 | **Votos Nulos/Blancos** | 3.75% | Protesta electoral |
-| **2° Lugar** | 346 comunas | 100% territorio nacional |
+| **Cobertura Geográfica** | 346 comunas | 100% territorio nacional |
 | **Capitales Regionales - Jara** | 10/16 | Dominio en centros urbanos |
 
 ## 🛠️ Stack Tecnológico

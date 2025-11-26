@@ -14,7 +14,8 @@ Proyecto integral de análisis de datos electorales que desarrolla un pipeline c
 
 ## 📁 Recursos Disponibles
 
-**Web-Scraper**: Extracción automatizada de datos - [Web Scraper.py](https://github.com/adroguetth/Elecciones_Chile_PrimeraVuelta_2025/blob/Web-Scraper/Web%20Scraper.py) 
+###  Web-Scraper
+Extracción automatizada de datos con Selenium  - [Ver Script](https://github.com/adroguetth/Elecciones_Chile_PrimeraVuelta_2025/blob/Web-Scraper/Web%20Scraper.py) 
 
 ### Bases de datos (ok)
 | Recurso | Descripción | Enlace |

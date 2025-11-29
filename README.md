@@ -1,4 +1,4 @@
-# Dashboard Interactivo- Primera Vuelta Presidencial 🇨🇱
+# Dashboard Interactivo - Primera Vuelta Presidencial 🇨🇱
 
 ## 🎯 Objetivo
 Dashboard analítico para visualizar resultados electorales chilenos con segmentación dinámica por región y candidato.

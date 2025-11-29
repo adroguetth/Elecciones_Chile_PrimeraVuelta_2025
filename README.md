@@ -14,7 +14,7 @@ Proyecto integral de análisis de datos electorales que desarrolla un pipeline c
 - Dashboard Interactivo - [Visualización Power BI](https://github.com/adroguetth/Elecciones_Chile_PrimeraVuelta_2025/tree/Dashboard-Interactivo)
 
 ### Flujo de datos
-** Scraping → Análisis SQL → Dashboard Interactivo**
+**Scraping → Análisis SQL → Dashboard Interactivo**
 
 ## 📁 Recursos Disponibles
 

@@ -11,7 +11,7 @@ Proyecto integral de análisis de datos electorales que desarrolla un pipeline c
 ## 🔗 Sub-Repositorios Especializados:
 - Web-Scraper - [Extracción automatizada de datos](https://github.com/adroguetth/Elecciones_Chile_PrimeraVuelta_2025/tree/Web-Scraper) 
 - Database-Analytics - [Análisis SQL avanzado](https://github.com/adroguetth/Elecciones_Chile_PrimeraVuelta_2025/tree/Database-Analytics)
-- Dashboard Interactivo - [https://github.com/adroguetth/Elecciones_Chile_PrimeraVuelta_2025/tree/Dashboard-Interactivo]
+- Dashboard Interactivo - [Visualización Power BI](https://github.com/adroguetth/Elecciones_Chile_PrimeraVuelta_2025/tree/Dashboard-Interactivo)
 
 ### Flujo de datos
 ** Scraping → Análisis SQL → Dashboard Interactivo**

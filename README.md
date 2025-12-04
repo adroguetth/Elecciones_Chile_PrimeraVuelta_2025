@@ -77,7 +77,6 @@ Output: Datos crudos en CSV/JSON
 ```sql
 Tecnologías: SQL Server, T-SQL, CSV, Excel
 Propósito: Almacenamiento estructurado y consultas
-Característica: Modelo relacional optimizado
 ```
 ### Capa de Análisis
 ```sql
@@ -91,6 +90,20 @@ Control Versiones: Git & GitHub
 Documentación: Markdown, PDF
 Entorno: VS Code, SSMS
 ```
+### Capa de Visualización
+```dax
+Tecnologías: Power BI Desktop, DAX (Data Analysis Expressions)
+Propósito: Dashboard interactivo con segmentación dinámica
+Características:
+  - 15 medidas DAX personalizadas
+  - 4 visuales interconectados
+  - Segmentación por región en tiempo real
+  - Formato condicional por candidato
+  - Tooltips enriquecidos con KPIs
+```
+
+
+
 ## 🚀 Características Técnicas Destacadas
 ### Pipeline Completo ETL
 - Extracción: Script propio Python + Selenium

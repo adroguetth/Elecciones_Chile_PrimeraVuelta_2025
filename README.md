@@ -34,6 +34,11 @@ Extracción automatizada de datos con Selenium  - [Ver Script](https://github.co
 | **10 Consultas SQL** | Análisis especializados con CTEs | [Ver consultas](https://github.com/adroguetth/Elecciones_Chile_PrimeraVuelta_2025/blob/Database-Analytics/elecciones_primera_vuelta.sql) |
 | **Documentación Técnica** | Especificaciones y metodología | [Ver pdf](https://drive.google.com/file/d/1mW9CAVGOBeyb44cl3W1zQmI9QsTG5_2r/view) |
 
+### Dashboard Interactivo
+| Recurso | Descripción | Enlace |
+|---------|-------------|--------|
+| **Dashboard PowerBI** |  Análisis electoral interactivo con 4 visualizaciones clave | [Ver pbix](https://drive.google.com/file/d/1bGe04Bc4YZY8WBk-QVvBTQxVYip40A2V/view) |
+| **Documentación Técnica** | PDF con arquitectura completa de medidas DAX  | [Ver pdf](https://drive.google.com/file/d/1pCvcPbEHldeqKpTlAHbRLTRdHmSTC69o/view) |
 
 ## 🎯 Métricas Principales
 
